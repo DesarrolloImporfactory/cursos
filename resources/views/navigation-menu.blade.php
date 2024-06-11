@@ -12,7 +12,7 @@ $nav_links = [
 ],
 [
 'name' => 'Herramientas',
-'route' => url('https://app.imporsuit.com/home'),
+'route' => url('https://app.imporsuitpro.com/home'),
 'active' => '',
 ],
 [
